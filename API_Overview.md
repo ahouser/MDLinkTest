@@ -50,7 +50,7 @@ The API in our **GetMyWeather** project is fictitious. But there are developer t
 
 You can test the OpenWeather API by running this command. This will get the weather for zip code 15206. The method call also specifies imperial units, and an API key that I have previously registered.
 
-curl --get "https://api.openweathermap.org/data/2.5/weather?zip=15206&units=imperial&appid=33b051b4a84ce79a63d64906ee87230e"
+curl --get "https://api.openweathermap.org/data/2.5/weather?zip=15206&units=imperial&appid=XXXXXX"
 
 
 
